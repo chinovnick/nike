@@ -481,6 +481,7 @@ footer hr {
 }
 
 .nav-lang{
+  margin-top: 0.1px;
   display: none;
 }
 
